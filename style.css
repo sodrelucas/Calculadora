@@ -53,3 +53,31 @@ body{
 #btneq{
     height: 6.4em;
 }
+
+@media (min-width: 380px ){
+    
+    .calculate{
+        width: 300px;
+        height: 520px;
+    }
+
+    #result{
+        height: 80px;
+        font-size: 2em;
+    }
+
+    .btn{
+        margin-top: 5px;
+        height: 5em;
+        width: 5em;
+        margin-left: 3px;
+    }
+
+    #btnz{
+        width: 10.5em;
+    }
+    
+    #btneq{
+        height: 10.5em;
+    }
+}
